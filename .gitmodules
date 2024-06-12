@@ -1,3 +1,4 @@
 [submodule "libs"]
 	path = libs
 	url = https://github.com/Rex16860/git-submodule-course
+	branch = release
